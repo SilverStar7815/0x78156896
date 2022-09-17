@@ -20,6 +20,6 @@ let itv = setInterval(
     }, 500);
 
 function main() {
-    const audio1 = new Audio("https://github.com/silverstar7815/geofs-alarms/sounds/stall.ogg")
+    const audio1 = new Audio("https://github.com/silverstar7815/0x78156896/sounds/stall.ogg")
     audio1.play()
 };
