@@ -20,6 +20,8 @@ let itv = setInterval(
     }, 500);
 
 function main() {
-    const audio1 = new Audio("https://github.com/silverstar7815/0x78156896/sounds/stall.ogg")
-    audio1.play()
+    const soundsURL = "https://raw.githubusercontent.com/SilverStar7815/0x78156896/blob/main/sons/"
+    var s1000 = "1000.wav"
+    var sound = soundsURL + s1000
+    s1000.play()
 };
