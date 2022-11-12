@@ -1,0 +1,1 @@
+manipulators.gear.setGear=function(a,b){if(b<0){if(geofs.animation.values.gearTarget===1){controls.setters.setGear.set()}}if(b>0){if(geofs.animation.values.gearTarget===0){controls.setters.setGear.set()}}};manipulators.flaps.setFlaps=function(a,b){if(b<0){controls.setters.setFlapsDown.set()}if(b>0){controls.setters.setFlapsUp.set()}};
