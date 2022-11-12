@@ -1,0 +1,1 @@
+const r22id="4197";manipulators.gear={};manipulators.flaps={};manipulators.r22={};manipulators.r22.values={};manipulators.r22.values.clutch=false;manipulators.gear.tempgear=0;manipulators.gear.currentHalf=0;manipulators.flaps.currentHalf=0;
